@@ -1,0 +1,10 @@
+21412 von APPR MF Markus NE MF Kopfballtreffer NN MF -1 -1 1 Hirsch NE MF -7 -2 0 Kontertor NN MF -9 -3 0 folgten VVFIN LK -11 -4 0
+30390 nach APPR MF Leipzig NE MF Jahren NN MF -2 -1 0 Alter NN MF -5 -2 0 Vater NN MF -7 -3 0 folgte VVFIN LK -9 -4 1
+38767 in APPR MF Blaumännern NN MF Arbeiter NN MF -1 -1 1 auszumachen VVIZU VC 11 1 0
+19314 in APPR MF Jahren NN MF Firma NN MF -1 -1 0 erreicht VVPP VC 13 1 1
+21282 mit APPR MF Vorschlag NN MF Fischer NE MF -1 -1 0 Andrea NE MF -2 -2 0 agiert VVFIN VC 9 1 1
+48855 mit APPR MF Bewohnern NN MF Muslime NN MF -2 -1 0 Blauhelmsoldaten NN MF -5 -2 0 auslieferten VVFIN VC 10 1 1
+14024 von APPR MF Angst NN MF Leben NN MF -2 -1 0 geprägt VVPP VC 4 1 1
+38820 über APPR MF Friedensplan NN MF Rußland NE MF -1 -1 0 Einigung NN MF -3 -2 1 Zeichen NN MF -7 -3 0 sehe VVFIN LK -9 -4 0
+39266 in APPR MF Berlin NE MF Demonstrationspotential NN MF -2 -1 0 sieht VVFIN LK -5 -2 1
+16354 bei APPR MF Staatsanwaltschaft NN MF Strafanzeige NN MF -1 -1 1 gestellt VVPP VC 4 1 0

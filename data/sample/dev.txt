@@ -1,0 +1,10 @@
+2 in APPR MF Altenheim NN MF Flutopfer NN MF -1 -1 0 Sammelgelder NN MF -3 -2 0 Mark NN MF -4 -3 0 Flossen VVFIN LK -6 -4 1
+2 in APPR MF Danzig NE MF Altenheim NN MF -1 -1 0 Flutopfer NN MF -4 -2 0 Sammelgelder NN MF -6 -3 0 Mark NN MF -7 -4 0 Flossen VVFIN LK -9 -5 1
+4 Im APPRART VF Januar NN VF entlassen VVPP VC 12 6 1 Arbeiterwohlfahrt NN MF 4 1 0 Bremen NE MF 5 2 0 Geschäftsführer NN MF 8 3 0 Hans NE MF 9 4 0 Taake NE MF 10 5 0
+7 für APPR VF Flutopfer NN VF geflossen VVPP VC 19 1 0 Geldsammlung NN VF -1 -1 1 Mark NN VF -5 -2 0 Nummer NN UK -9 -3 0 Vorwurf NN UK -10 -4 0
+7 an APPR MF Caritas NE MF AWO NN MF -1 -1 0 Landesverbandes NN MF -3 -2 0 Konto NN MF -6 -3 0 geflossen VVPP VC 5 1 1
+42 Aus APPR VF Sicht NN VF schadet VVFIN LK 3 1 1 Verlagerung NN MF 5 2 0 Auto-Geschäftes NN MF 7 3 0 Interessen NN MF 10 4 0
+56 zur APPRART MF Podiumsdiskussion NN MF Bauressort NN MF -1 -1 0 Vertretern NN MF -4 -2 0 Betroffene NN MF -7 -3 0 getroffen VVPP VC 2 1 1
+97 von APPR VF Jahren NN VF geplant VVPP VC 10 1 0 Anlaufphase NN VF -1 -1 1
+102 am APPRART MF Donnerstag NN MF Tarifverhandlungen NN MF -1 -1 0 wesentlichen NN MF -3 -2 0 abwarten VVINF VC 6 1 1
+107 Beim APPRART VF SV NN VF geht VVFIN LK 4 1 1 Gespenst NN MF 7 2 0 Liga NN MF 9 3 0

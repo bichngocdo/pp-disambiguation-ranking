@@ -1,0 +1,10 @@
+16039 von APPR MF Ankunft NN MF Wehmut NN MF -1 -1 1 tritt VVFIN VC 20 1 0
+11909 durchs APPRART MF Gras NN MF Zeit NN MF -1 -1 0 Kamera NN MF -4 -2 0 schlängelt VVFIN LK -7 -3 1
+34343 in APPR MF NRW NE MF Veranstaltergemeinschaften NN MF -1 -1 1 Kanal NN MF -5 -2 0 dient VVFIN LK -7 -3 0
+12754 von APPR MF Tunis NE MF Uni NN MF -1 -1 1 Mourad NE MF -4 -2 0 gepaukt VVPP VC 3 1 0
+6298 in APPR VF Ost-Berlin NE VF beklagen VVINF VC 11 3 0 Gerechtigkeit NN VF -2 -1 0 Komitees NN VF -4 -2 0 Gründung NN VF -7 -3 1 Tage NN VF -10 -4 0 Büro NN MF 6 1 0 Zuspruch NN MF 9 2 0
+48233 mit APPR MF Auszügen NN MF Schlachtengemälde NN MF -1 -1 0 Bilder NN MF -3 -2 0 abwechseln VVFIN VC 5 1 1
+1877 Vor APPR VF kurzem NN VF überraschte VVFIN LK 2 1 1 Kultursenator NN MF 5 2 0 Peter NE MF 6 3 0 Radunski NE MF 7 4 0 Ankündigung NN MF 10 5 0 Kunstgewerbemuseum NN MF 14 6 0 Obhut NN MF 18 7 0 Festspiel NE MF 20 8 0 GmbH NN MF 21 9 0
+56674 von APPR MF Nablus NE MF Nähe NN MF -1 -1 1 Gefangene NN MF -4 -2 0 Soldaten NN MF -7 -3 0 Vorgehens NN MF -9 -4 0 Szenen NN MF -11 -5 0 ausgestrahlt VVPP VC 2 1 0
+42616 nach APPR MF Nordalbanien NE MF Grenze NN MF -1 -1 0 Dienstag NN MF -4 -2 0 Nacht NN MF -6 -3 0 kamen VVFIN LK -9 -4 1
+52948 mit APPR NF Schauspielern NN NF fordert VVFIN VC -7 -3 0 Umgang NN NF -1 -1 1 Nachhilfeunterricht NN NF -3 -2 0
